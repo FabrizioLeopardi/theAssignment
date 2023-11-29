@@ -1,0 +1,2 @@
+aruco_ros/aruco:aruco_ros/aruco_msgs:aruco_ros/aruco_ros:assignment1_EXP:robot_urdf
+-DCATKIN_DEVEL_PREFIX=/root/Desktop/theAssignment/devel -DCMAKE_INSTALL_PREFIX=/root/Desktop/theAssignment/install -G Unix Makefiles

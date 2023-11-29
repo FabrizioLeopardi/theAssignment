@@ -1,0 +1,8 @@
+prefix=/root/Desktop/theAssignment/devel
+
+Name: robot_urdf
+Description: Description of robot_urdf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
