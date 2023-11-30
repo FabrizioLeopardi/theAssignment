@@ -1,5 +1,8 @@
 # Bug fix
 
+To run this version clone the src folder inside a ros workspace and execute catkin_make. 
+Then go to the src/assignment1_EXP/launch folder and run roslaunch sim_aruco.launch
+
 Notice: this version of the project has been developed starting from the already existing package already sent.
 I made the following changes in order to achieve a more reliable behavior in simulation as some issues arose while launching several times the code on my distribution:
 
