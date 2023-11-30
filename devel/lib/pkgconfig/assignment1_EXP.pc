@@ -1,8 +1,0 @@
-prefix=/root/Desktop/theAssignment/devel
-
-Name: assignment1_EXP
-Description: Description of assignment1_EXP
-Version: 0.0.0
-Cflags: -I/root/Desktop/theAssignment/devel/include
-Libs: -L${prefix}/lib 
-Requires: 
